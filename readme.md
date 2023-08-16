@@ -1,0 +1,2 @@
+# Wini
+*wini
